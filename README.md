@@ -25,7 +25,7 @@ This project is a **Live Speech-to-Text** application built with Python that all
 
 To better understand how the application works, you can watch the demonstration video below:
 
-[![Live Speech-to-Text App Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Live Speech-to-Text App Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/vs10g9RAHjk)
 
 Click the image above to watch the video on YouTube, where we show the application’s main features, including live transcription, summarization, saving transcripts, and accuracy calculation.
 

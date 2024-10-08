@@ -1,0 +1,5 @@
+SpeechRecognition==3.8.1
+PySimpleGUI==4.60.3
+transformers==4.33.2
+torch==2.0.1
+pyaudio==0.2.11
